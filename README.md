@@ -6,7 +6,7 @@
 
 ---
 
-## Client Summary and Software Requirements  
+## Summary and Software Requirements  
 
 The client, The Gaming Room, requested a web-based game service that supports multiple teams and players while ensuring each game instance remains unique. The system needed to follow object-oriented principles, enforce uniqueness constraints for games, teams, and players, and support RESTful communication through HTTP endpoints. It also had to be scalable and capable of operating across different platforms.
 
