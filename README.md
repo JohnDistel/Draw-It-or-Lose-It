@@ -1,8 +1,5 @@
 # Draw It or Lose It  
 ## CS 230 - Module Eight Journal  
-### Software Design Portfolio Reflection  
-
-**Project:** The Gaming Room – GameAuth Application  
 
 ---
 
